@@ -8,8 +8,14 @@ Tekrar oynamak isterseniz sayfayı yenilemek yerine herhangi bir zorluk seviyesi
 Projeyi geliştirirken js, css ve html den yararlandım.
 Zamanla yeni müzikler daha iyi bir tasarımla saklanılıp, arttırılacak.
 Lütfen puzzle ı açtıktan sonra müziği çalıştırmayı unutmayınız. 
+
+
+
 ![image](https://user-images.githubusercontent.com/73184456/168472877-ea9dd98e-41ee-4571-8e0e-44c9b9e49d40.png)
 ![image](https://user-images.githubusercontent.com/73184456/168472921-0c21b9b2-2d8c-4b7b-8044-8d11858b2be6.png)
+
+
+
 12. satırdaki fotoğrafa dikkatli bakarsak 2 ye tıkladığımızda solundaki kutu boş olduğu için sola geçti.
 ![image](https://user-images.githubusercontent.com/73184456/168472962-8000f46f-de36-4178-b55b-8a0277649953.png)
 .
