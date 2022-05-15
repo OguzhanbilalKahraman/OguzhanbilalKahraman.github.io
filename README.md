@@ -16,7 +16,7 @@ Lütfen puzzle ı açtıktan sonra müziği çalıştırmayı unutmayınız.
 
 
 
-12. satırdaki fotoğrafa dikkatli bakarsak 2 ye tıkladığımızda solundaki kutu boş olduğu için sola geçti.
+Fotoğrafa dikkatli bakarsak 2 ye tıkladığımızda solundaki kutu boş olduğu için sola geçti.
 ![image](https://user-images.githubusercontent.com/73184456/168472962-8000f46f-de36-4178-b55b-8a0277649953.png)
 .
 
