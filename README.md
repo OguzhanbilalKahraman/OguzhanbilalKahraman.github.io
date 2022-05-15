@@ -4,4 +4,4 @@ Proje ödevim 3x3 matriksten oluşan bir puzzledır. 8 Blok vardır. Oyunun amac
 Oyunun çalışmasını basit bir mantıkla yürüttüm. Bloklara tıkladığımızda yanında müsait bir blok alan varsa oraya ilerler, aşağı- yukarı- sağ- sol.
 Projeyi geliştirirken js, css ve html den yararlandım.
 Zamanla yeni müzikler daha iyi bir tasarımla saklanılıp, arttırılacak.
-Lütfen çalıştırdıktan sonra müziği çalıştırmayı unutmayınız. 
+Lütfen puzzle ı açtıktan sonra müziği çalıştırmayı unutmayınız. 
